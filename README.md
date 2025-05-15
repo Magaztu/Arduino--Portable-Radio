@@ -16,7 +16,11 @@ This project uses the following components:
  - Any compatible speaker.
  - A MicroSD card.
  - Jumper wires (<30).
+ - A button (any will work).
  - A BreadBoard.
  - IR sensor (Digital-input).
+
+Each component that has a library of its own has it implemented in the code. They're the following:
+- Name them
 
 Will update later with more information.

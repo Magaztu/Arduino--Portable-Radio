@@ -21,8 +21,12 @@ This project uses the following components:
  - IR sensor (Digital-input).
 
 Each component that has a library of its own has it implemented in the code. They're the following:
-- Name them
+ - <DFRobotDFPlayerMini.h>
+ - <SoftwareSerial.h>
+ - <Wire.h>
+ - <LiquidCrystal_I2C.h>
 
--> 
+-> I'm thinking of adding a map for the pin positions... 
 -> The repo now includes a txt with the raw code [RAW-CODE.txt], no comments and cleaner, this might be helpful for visibility in some cases.
+->
 Will update later with more information.

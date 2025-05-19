@@ -1,0 +1,3 @@
+The following is a guide of what Pin positions I used, you may customize the positions as you please.
+
+[PL]

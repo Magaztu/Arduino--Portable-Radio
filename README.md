@@ -26,7 +26,7 @@ Each component that has a library of its own has it implemented in the code. The
  - <Wire.h>
  - <LiquidCrystal_I2C.h>
 
--> I'm thinking of adding a map for the pin positions... 
 -> The repo now includes a txt with the raw code [RAW-CODE.txt], no comments and cleaner, this might be helpful for visibility in some cases.
+-> A map guide for the pin positions is now available!
 ->
-Will update later with more information.
+Will update later with more information, if posible.
